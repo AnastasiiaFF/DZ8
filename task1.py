@@ -34,4 +34,4 @@ def save_json_csv_pickle(directory):
 
 
 if __name__ == '__main__':
-save_json_csv_pickle(directory='directory')
+save_json_csv_pickle(directory='')
